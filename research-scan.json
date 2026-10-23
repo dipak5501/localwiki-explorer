@@ -1,0 +1,565 @@
+{
+  "scannedAt": "2026-10-23T16:00:16.595Z",
+  "disclaimer": "Representative scan of publicly accessible sources only. Not a crawl of the entire web. Sources that block or require login are skipped without bypass.",
+  "sources": [
+    {
+      "source": "hackernews",
+      "checkedAt": "2026-10-23T16:00:14.398Z",
+      "items": [
+        {
+          "source": "hackernews",
+          "id": "50208099",
+          "title": "OpenSSL 4.1.0",
+          "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+          "score": 133,
+          "comments": 36,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50202285",
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "score": 855,
+          "comments": 167,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50205934",
+          "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+          "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+          "score": 288,
+          "comments": 272,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50202681",
+          "title": "Docker is weird",
+          "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+          "score": 709,
+          "comments": 288,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50210067",
+          "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+          "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+          "score": 53,
+          "comments": 11,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50207620",
+          "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+          "url": "https://www.thisandthat.chat/enron/",
+          "score": 18,
+          "comments": 8,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50208837",
+          "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+          "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+          "score": 390,
+          "comments": 283,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50203161",
+          "title": "The foolishness of \"natural language programming\" (1978)",
+          "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+          "score": 293,
+          "comments": 195,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50195002",
+          "title": "The alien space of science: Coherent but cognitively unavailable directions",
+          "url": "https://arxiv.org/abs/2603.01092",
+          "score": 149,
+          "comments": 55,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50206840",
+          "title": "Job Loss and Cortisone Mania",
+          "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+          "score": 81,
+          "comments": 21,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50197313",
+          "title": "Every AI model has the same \"controversial\" take on humans",
+          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+          "score": 564,
+          "comments": 542,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50195488",
+          "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+          "url": "https://github.com/dsmurrell/onkey",
+          "score": 129,
+          "comments": 58,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50200997",
+          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+          "url": "https://news.ycombinator.com/item?id=50200997",
+          "score": 356,
+          "comments": 383,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50198675",
+          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "score": 461,
+          "comments": 205,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50201445",
+          "title": "How does Fable 5.1 hide messages in images?",
+          "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+          "score": 169,
+          "comments": 52,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50196718",
+          "title": "Run full iOS 16.5 firmware on Android Devices",
+          "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+          "score": 490,
+          "comments": 179,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50208343",
+          "title": "Shitter – A Nitter Fork",
+          "url": "https://codeberg.org/shitter/shitter",
+          "score": 124,
+          "comments": 75,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50200164",
+          "title": "The HTML-in-Canvas API origin trial",
+          "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+          "score": 103,
+          "comments": 43,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50190363",
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "score": 586,
+          "comments": 179,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50197404",
+          "title": "Getting ready to operate GNU Taler in Germany",
+          "url": "https://www.taler.net/en/news/2026-13.html",
+          "score": 340,
+          "comments": 155,
+          "type": "story"
+        }
+      ]
+    },
+    {
+      "source": "devto",
+      "checkedAt": "2026-10-23T16:00:14.445Z",
+      "items": [
+        {
+          "source": "devto",
+          "id": "4904732",
+          "title": "5 Steps on How to not loose at a hackathon?",
+          "url": "https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1",
+          "score": 15,
+          "tags": [
+            "ai",
+            "programming",
+            "majorleaguehacking",
+            "hackathon"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4901412",
+          "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+          "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+          "score": 11,
+          "tags": [
+            "ai",
+            "programming",
+            "architecture",
+            "unix"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4903104",
+          "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+          "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+          "score": 8,
+          "tags": [
+            "ai",
+            "gemini",
+            "googleappsscript",
+            "googleworkspace"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4899612",
+          "title": "PHP2Shell: Your Code Was Fine, The Engine Was Not",
+          "url": "https://dev.to/lovestaco/php2shell-your-code-was-fine-the-engine-was-not-gc2",
+          "score": 19,
+          "tags": [
+            "php",
+            "security",
+            "webdev",
+            "devops"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4903018",
+          "title": "AI Is Winning Literary Awards. The Data Says That's Not What's Happening.",
+          "url": "https://dev.to/james_anderson_h/ai-is-winning-literary-awards-the-data-says-thats-not-whats-happening-179d",
+          "score": 24,
+          "tags": [
+            "ai",
+            "writing",
+            "data",
+            "discuss"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4900213",
+          "title": "Patch Your PHP: What PHP2Shell Means for WordPress Sites",
+          "url": "https://dev.to/cseeman/patch-your-php-what-php2shell-means-for-wordpress-sites-2akn",
+          "score": 8,
+          "tags": [
+            "php",
+            "security",
+            "wordpress",
+            "cve"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4902669",
+          "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
+          "url": "https://dev.to/gulajavaministudio/why-an-80-year-old-math-book-fixed-my-ai-coding-agent-517b",
+          "score": 14,
+          "tags": [
+            "ai",
+            "webdev",
+            "programming",
+            "productivity"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4904556",
+          "title": "I let an open model delete 1,242 of my saved articles. On purpose. I feel lighter.",
+          "url": "https://dev.to/sarvar_04/i-let-an-open-model-delete-1242-of-my-saved-articles-on-purpose-i-feel-lighter-l7f",
+          "score": 10,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "ai",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4898963",
+          "title": "Smaller Simpler Maven Projects",
+          "url": "https://dev.to/codenameone/smaller-simpler-maven-projects-4ca5",
+          "score": 6,
+          "tags": [
+            "java",
+            "mobile",
+            "android",
+            "ios"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4888591",
+          "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+          "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
+          "score": 6,
+          "tags": [
+            "deved",
+            "learngoogleaistudio",
+            "googleai",
+            "gemini"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4902697",
+          "title": "Hush: I Hid 10 Emergencies in My Own Notifications. An On-Device Gemma OS Found All 10.",
+          "url": "https://dev.to/rajan_mishra_a9f78ad216b4/hush-i-hid-10-emergencies-in-my-own-notifications-an-on-device-gemma-os-found-all-10-m3g",
+          "score": 15,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "ai",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4902425",
+          "title": "My clients explain automations in rambling WhatsApp voice notes. Now my laptop answers with an n8n workflow",
+          "url": "https://dev.to/gartox/my-clients-explain-automations-in-rambling-whatsapp-voice-notes-now-my-laptop-answers-with-an-n8n-4dj0",
+          "score": 6,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "n8n",
+            "ai"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4897244",
+          "title": "Building a Multi-Agent Token Usage Widget in Under 500 KB",
+          "url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih",
+          "score": 6,
+          "tags": [
+            "gemini",
+            "agents",
+            "widget",
+            "token"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4902923",
+          "title": "Why Vision Is the Dumbest AI in Pop Culture",
+          "url": "https://dev.to/om_shree_0709/why-vision-is-the-dumbest-ai-in-pop-culture-2je4",
+          "score": 6,
+          "tags": [
+            "ai",
+            "opensource",
+            "security",
+            "discuss"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4902954",
+          "title": "I gave up naming my projects. My agents do it now.",
+          "url": "https://dev.to/daniel_ng/i-gave-up-naming-my-projects-my-agents-do-it-now-1275",
+          "score": 20,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "mastra",
+            "agents"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "github_search",
+      "checkedAt": "2026-10-23T16:00:15.531Z",
+      "items": [
+        {
+          "source": "github_search",
+          "id": "1423101235",
+          "title": "Gathin23/cleanyourtv",
+          "url": "https://github.com/Gathin23/cleanyourtv",
+          "score": 26987,
+          "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+        },
+        {
+          "source": "github_search",
+          "id": "1421825221",
+          "title": "deepseek-ai/DeepInfer",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "score": 20805,
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+        },
+        {
+          "source": "github_search",
+          "id": "1423689866",
+          "title": "ly05010419/MacNativeGames",
+          "url": "https://github.com/ly05010419/MacNativeGames",
+          "score": 4802,
+          "description": ""
+        },
+        {
+          "source": "github_search",
+          "id": "1415313946",
+          "title": "jhaizhou-ops/d2r-mobile",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+          "score": 4465,
+          "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层"
+        },
+        {
+          "source": "github_search",
+          "id": "1426080579",
+          "title": "simbasjungles/free-my-tv",
+          "url": "https://github.com/simbasjungles/free-my-tv",
+          "score": 3787,
+          "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
+        },
+        {
+          "source": "github_search",
+          "id": "1426780056",
+          "title": "pengchujin/aerial-tv",
+          "url": "https://github.com/pengchujin/aerial-tv",
+          "score": 3733,
+          "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+        },
+        {
+          "source": "github_search",
+          "id": "1417456983",
+          "title": "HeyPuter/everything",
+          "url": "https://github.com/HeyPuter/everything",
+          "score": 3701,
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch."
+        },
+        {
+          "source": "github_search",
+          "id": "1416386910",
+          "title": "Arekejoker/qwen21-nsfw-pose-skill",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+          "score": 3665,
+          "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+        },
+        {
+          "source": "github_search",
+          "id": "1414685342",
+          "title": "onehumanbeing/esp32-iphone-agent",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+          "score": 3615,
+          "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+        },
+        {
+          "source": "github_search",
+          "id": "1413898431",
+          "title": "liseami/CCBaga",
+          "url": "https://github.com/liseami/CCBaga",
+          "score": 2908,
+          "description": ""
+        },
+        {
+          "source": "github_search",
+          "id": "1424183124",
+          "title": "xiaoyang111222/cn-math-taxonomy",
+          "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+          "score": 2689,
+          "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+        },
+        {
+          "source": "github_search",
+          "id": "1416502082",
+          "title": "seedds/nxnative",
+          "url": "https://github.com/seedds/nxnative",
+          "score": 2416,
+          "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)"
+        }
+      ]
+    },
+    {
+      "source": "osv_malware_feed",
+      "checkedAt": "2026-10-23T16:00:16.457Z",
+      "items": [
+        {
+          "source": "osv",
+          "id": "GHSA-3cv6-jpf6-8222",
+          "title": "GHSA-3cv6-jpf6-8222: LiteLLM: Authenticated SSRF and provider-credential exfiltration via unvalidated request-body routing parameters",
+          "url": "https://osv.dev/vulnerability/GHSA-3cv6-jpf6-8222",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-3xr8-qfvj-9p9j",
+          "title": "GHSA-3xr8-qfvj-9p9j: Arbitrary file deletion in litellm",
+          "url": "https://osv.dev/vulnerability/GHSA-3xr8-qfvj-9p9j",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-46cm-pfwv-cgf8",
+          "title": "GHSA-46cm-pfwv-cgf8: LiteLLM has Server-Side Template Injection vulnerability in /completions endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-46cm-pfwv-cgf8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4g5m-c9r5-49xf",
+          "title": "GHSA-4g5m-c9r5-49xf: LiteLLM: Local file read via request-supplied OIDC file references",
+          "url": "https://osv.dev/vulnerability/GHSA-4g5m-c9r5-49xf",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4jcj-7x88-m979",
+          "title": "GHSA-4jcj-7x88-m979: LiteLLM: MCP Proxy Has Improper Authentication",
+          "url": "https://osv.dev/vulnerability/GHSA-4jcj-7x88-m979",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4xpc-pv4p-pm3w",
+          "title": "GHSA-4xpc-pv4p-pm3w: LiteLLM: Authentication Bypass via Host Header Injection",
+          "url": "https://osv.dev/vulnerability/GHSA-4xpc-pv4p-pm3w",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53gh-p8jc-7rg8",
+          "title": "GHSA-53gh-p8jc-7rg8: LiteLLM Vulnerable to Remote Code Execution (RCE)",
+          "url": "https://osv.dev/vulnerability/GHSA-53gh-p8jc-7rg8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53mr-6c8q-9789",
+          "title": "GHSA-53mr-6c8q-9789: LiteLLM: Privilege escalation via unrestricted proxy configuration endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-53mr-6c8q-9789",
+          "score": 1
+        }
+      ],
+      "note": "Representative OSV package query (litellm) plus news-linked supply-chain signals; not a full registry crawl."
+    },
+    {
+      "source": "reddit_programming",
+      "checkedAt": "2026-10-23T16:00:16.595Z",
+      "items": [],
+      "skipped": true,
+      "error": "HTTP 403 (respecting block; no bypass)"
+    }
+  ]
+}
