@@ -26,3 +26,13 @@ Ctrl+C
 ## Research
 
 See RESEARCH.md (representative public scan).
+
+## Self-adaptation
+
+This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
+
+**Latest:** Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating public trend signals, the Local Wiki Explorer can improve user engagement and content quality through advanced search capabilities and community contributions.
+
+See `learning/LATEST.json` and `public/insights.json`.
