@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from projects like Gathin23/cleanyourtv and deepseek-ai/DeepInfer, the Local Wiki Explorer can improve user engagement and knowledge sharing. This includes implementing a clean interface for better usability and adding AI-driven content recommendations to enhance user experience.
+By integrating features from trending projects, the Local Wiki Explorer can offer a more robust and interactive experience for users. This includes improving search capabilities, enhancing user contributions, and adding multimedia content support.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
