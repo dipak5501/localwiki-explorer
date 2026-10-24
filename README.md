@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from trending projects, Local Wiki Explorer can improve user engagement and functionality. This includes adding AI-powered search capabilities, enhancing mobile responsiveness, and incorporating interactive community contributions.
+By integrating features from projects like Gathin23/cleanyourtv for user interface improvements, deepseek-ai/DeepInfer for advanced search capabilities, and ly05010419/MacNativeGames for better navigation, the Local Wiki Explorer can become a more engaging and efficient tool for local knowledge exploration.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

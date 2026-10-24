@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-24T07:04:52.853Z",
+  "updatedAt": "2026-10-24T10:06:10.983Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from trending projects, Local Wiki Explorer can improve user engagement and functionality. This includes adding AI-powered search capabilities, enhancing mobile responsiveness, and incorporating interactive community contributions.",
+  "summary": "By integrating features from projects like Gathin23/cleanyourtv for user interface improvements, deepseek-ai/DeepInfer for advanced search capabilities, and ly05010419/MacNativeGames for better navigation, the Local Wiki Explorer can become a more engaging and efficient tool for local knowledge exploration.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 28769
+      "score": 29289
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 21359
+      "score": 21461
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5022
+      "score": 5072
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4499
-    },
-    {
-      "source": "github_search",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 4024
+      "score": 4515
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 4012
+      "score": 4108
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4068
     }
   ]
 }
