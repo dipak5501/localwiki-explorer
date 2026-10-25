@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from the 'cleanyourtv' and 'esp32-iphone-agent' projects, the Local Wiki Explorer can improve user experience through better content organization and mobile compatibility. Additionally, incorporating AI-powered search from 'DeepInfer' will enhance knowledge discovery.
+By incorporating public trend signals, the Local Wiki Explorer can improve user engagement and content quality through better search functionality and community contributions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
