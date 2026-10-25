@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Wiki Explorer with Public Trend Signals
+**Latest:** Enhancing Local Wiki Explorer with Public Trend Signals
 
-By integrating features from projects like CleanYourTV and DeepInfer, the Local Wiki Explorer can improve user experience through better data cleaning and advanced search capabilities. Additionally, incorporating native game elements could increase engagement.
+By integrating features from projects like Gathin23/cleanyourtv and pengchujin/aerial-tv, the Local Wiki Explorer can improve user experience through better data organization and visual presentation of local knowledge.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
