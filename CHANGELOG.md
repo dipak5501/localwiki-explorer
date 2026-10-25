@@ -197,3 +197,21 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - pengchujin/aerial-tv
+
+## 2026-10-25 — web-learn-2026-10-25T04
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By incorporating public trend signals, the Local Wiki Explorer can improve its user engagement and content richness. This will enable users to explore local knowledge bases more effectively and contribute valuable information.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- ly05010419/MacNativeGames
+- jhaizhou-ops/d2r-mobile
+- pengchujin/aerial-tv
