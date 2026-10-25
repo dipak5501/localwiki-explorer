@@ -233,3 +233,21 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - pengchujin/aerial-tv
+
+## 2026-10-25 — web-learn-2026-10-25T10
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from projects like CleanYourTV and DeepInfer, the Local Wiki Explorer can improve user experience through better data cleaning and advanced search capabilities. Additionally, incorporating native game elements could increase engagement.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- ly05010419/MacNativeGames
+- pengchujin/aerial-tv
+- jhaizhou-ops/d2r-mobile

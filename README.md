@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from the 'cleanyourtv' project, improving search capabilities using AI tools like 'DeepInfer', and incorporating community-driven content management systems inspired by 'nxnative', Local Wiki Explorer can become more engaging and user-friendly.
+By integrating features from projects like CleanYourTV and DeepInfer, the Local Wiki Explorer can improve user experience through better data cleaning and advanced search capabilities. Additionally, incorporating native game elements could increase engagement.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
