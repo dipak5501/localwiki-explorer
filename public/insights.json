@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T04:14:06.718Z",
+  "updatedAt": "2026-10-25T07:15:42.563Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By incorporating public trend signals, the Local Wiki Explorer can improve its user engagement and content richness. This will enable users to explore local knowledge bases more effectively and contribute valuable information.",
+  "summary": "By integrating features from the 'cleanyourtv' project, improving search capabilities using AI tools like 'DeepInfer', and incorporating community-driven content management systems inspired by 'nxnative', Local Wiki Explorer can become more engaging and user-friendly.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 32211
+      "score": 32604
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 21933
+      "score": 22030
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5251
+      "score": 5286
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4569
+      "score": 4575
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 4448
+      "score": 4531
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 4331
+      "score": 4361
     }
   ]
 }
