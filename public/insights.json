@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T19:21:03.444Z",
+  "updatedAt": "2026-10-25T22:22:53.305Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from Gathin23/cleanyourtv and deepseek-ai/DeepInfer, the Local Wiki Explorer can improve user experience through better data organization and AI-driven insights. Additionally, implementing a native game feature as seen in ly05010419/MacNativeGames will attract more users interested in interactive content.",
+  "summary": "By integrating features from popular projects like Gathin23/cleanyourtv and HeyPuter/everything, the Local Wiki Explorer can improve user experience through better organization and search functionality.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 34491
+      "score": 34803
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22332
+      "score": 22369
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 6149
+      "score": 6474
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5432
+      "score": 5449
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 4961
+      "score": 4968
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4624
+      "score": 4628
     }
   ]
 }

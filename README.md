@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from Gathin23/cleanyourtv and deepseek-ai/DeepInfer, the Local Wiki Explorer can improve user experience through better data organization and AI-driven insights. Additionally, implementing a native game feature as seen in ly05010419/MacNativeGames will attract more users interested in interactive content.
+By integrating features from popular projects like Gathin23/cleanyourtv and HeyPuter/everything, the Local Wiki Explorer can improve user experience through better organization and search functionality.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
