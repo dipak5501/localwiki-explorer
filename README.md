@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from the 'cleanyourtv' and 'gpu-unlock' projects, the Local Wiki Explorer can improve user experience through enhanced video content management and GPU performance optimization. Additionally, incorporating AI-based content analysis from 'DeepInfer' will provide more accurate and relevant information to users.
+By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to its users. This will improve user engagement and contribute to a richer local knowledge base.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
