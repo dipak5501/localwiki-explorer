@@ -647,3 +647,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-28 — web-learn-2026-10-28T07
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating trend signals from GitHub repositories, the Local Wiki Explorer can offer more interactive and data-driven features for users to explore local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
