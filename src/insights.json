@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-28T08:00:11.004Z",
+  "updatedAt": "2026-10-28T11:02:33.310Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating trend signals from GitHub repositories, the Local Wiki Explorer can offer more interactive and data-driven features for users to explore local knowledge bases.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content for users. This will improve user engagement and contribute to a richer local knowledge base.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 42517
+      "score": 42840
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23542
+      "score": 23620
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 11720
+      "score": 11859
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7124
+      "score": 7211
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6118
+      "score": 6151
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5105
+      "score": 5125
     }
   ]
 }
