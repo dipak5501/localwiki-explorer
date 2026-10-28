@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhancing Local Wiki Explorer with Public Trend Signals
 
-By integrating features from projects like cleanyourtv and free-my-tv, the Local Wiki Explorer can improve user experience by cleaning up local data and enhancing privacy. Additionally, incorporating AI-driven content recommendations from DeepInfer will enrich the exploration process.
+By integrating public trend signals, the Local Wiki Explorer can improve user engagement and content richness. This will involve leveraging AI for better search capabilities and community contributions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
