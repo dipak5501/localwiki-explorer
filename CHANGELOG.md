@@ -953,3 +953,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - simbasjungles/free-my-tv
+
+## 2026-10-30 — web-learn-2026-10-30T05
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from projects like cleanyourtv and gpu-unlock, the Local Wiki Explorer can offer users better local knowledge management tools and improved privacy settings for their contributions.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- simbasjungles/free-my-tv
