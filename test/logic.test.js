@@ -1,4 +1,4 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { run } from "../src/logic.js";
-test("run returns text", () => { assert.equal(typeof run(), "string"); assert.ok(run().length > 10); });
+import { uid } from "../src/logic.js";
+test("uid", () => assert.match(uid(), /^p-/));

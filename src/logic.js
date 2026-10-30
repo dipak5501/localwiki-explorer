@@ -1,25 +1,22 @@
-export function run() {
-    return `
-# Local Wiki Explorer
+const KEY = "nae-local-wiki";
 
-## Summary
-A web app designed for exploring and contributing to local knowledge bases.
+export function loadWiki() {
+  try {
+    const raw = localStorage.getItem(KEY);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  return {
+    pages: [
+      { id: "home", title: "Home", body: "Welcome to your local wiki.\n\nCreate pages on the left. Everything stays in this browser." },
+      { id: "ideas", title: "Ideas", body: "- Capture notes\n- Link related pages by title\n- Export later if you want" },
+    ],
+  };
+}
 
-## Features
-- **Community Contributions:** Enable users to add, edit, and delete content.
-- **Search Functionality:** Quickly find information related to your community.
-- **User Authentication:** Secure access with login and registration options.
-- **Version Control:** Track changes and revert to previous versions if needed.
+export function saveWiki(state) {
+  localStorage.setItem(KEY, JSON.stringify(state));
+}
 
-## Target Audience
-- Community Contributors: Individuals who want to share their knowledge about local areas.
-- Curious Locals: Residents or visitors interested in learning more about the community.
-
-## Next Steps
-1. Set up a database for storing wiki content.
-2. Develop user authentication and authorization mechanisms.
-3. Implement search functionality to enhance usability.
-4. Create an intuitive interface for easy navigation and contribution.
-
-`;
+export function uid() {
+  return "p-" + Math.random().toString(36).slice(2, 9);
 }

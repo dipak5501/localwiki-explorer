@@ -1,0 +1,30 @@
+:root {
+  --bg: #f6f1e7; --ink: #1c1814; --muted: #6b6158; --panel: #fffdf8;
+  --line: #ddd2c2; --accent: #0f5c4c; --chip: #e7efe9;
+  --font: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+  --sans: "Avenir Next", "Segoe UI", sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); font-family: var(--font);
+  background: linear-gradient(135deg, #efe6d6 0%, #f6f1e7 40%, #e4eef0 100%); min-height: 100vh; }
+.shell { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
+@media (max-width: 800px) { .shell { grid-template-columns: 1fr; } }
+.side { border-right: 1px solid var(--line); padding: 1.25rem; background: rgba(255,253,248,.7); }
+.brand { font-size: 1.55rem; margin: 0 0 .25rem; }
+.lede { color: var(--muted); font-family: var(--sans); font-size: 0.9rem; margin: 0 0 1rem; }
+.side input, .main input, .main textarea, button {
+  width: 100%; font: inherit; font-family: var(--sans); border: 1px solid var(--line);
+  border-radius: 10px; padding: 0.55rem 0.7rem; background: var(--panel); color: var(--ink);
+}
+button { cursor: pointer; background: var(--accent); color: #f4fffb; border-color: transparent; font-weight: 600; margin-top: 0.45rem; }
+button.ghost { background: transparent; color: var(--accent); border-color: var(--line); }
+.pages { list-style: none; padding: 0; margin: 1rem 0 0; }
+.pages li { margin: 0.25rem 0; }
+.pages button { background: transparent; color: var(--ink); text-align: left; border: none; padding: 0.4rem 0.35rem; font-weight: 500; }
+.pages button.active { background: var(--chip); border-radius: 8px; }
+.main { padding: 1.5rem 1.5rem 3rem; }
+.main h1 { margin: 0 0 0.75rem; font-size: clamp(1.8rem, 3vw, 2.4rem); }
+textarea { min-height: 340px; line-height: 1.55; resize: vertical; }
+.row { display: flex; gap: 0.5rem; margin: 0.6rem 0 1rem; }
+.row button { width: auto; margin: 0; }
+.preview { margin-top: 1rem; padding: 1rem; border: 1px solid var(--line); border-radius: 12px; background: var(--panel); white-space: pre-wrap; font-family: var(--sans); line-height: 1.55; }

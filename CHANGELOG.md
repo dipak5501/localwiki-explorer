@@ -1061,3 +1061,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - xiaoyang111222/cn-math-taxonomy
+
+## 2026-10-30 — web-learn-2026-10-30T20
+
+Enhance Local Wiki Explorer with Trend Signals
+
+By integrating public trend signals, the Local Wiki Explorer can improve user engagement and content contribution. This will help in creating a more dynamic and interactive platform for local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy
