@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-31T02:57:14.838Z",
-  "featureId": "web-learn-2026-10-31T02",
+  "at": "2026-10-31T05:59:56.853Z",
+  "featureId": "web-learn-2026-10-31T05",
   "slug": "local-wiki",
   "idea": {
     "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating public trend signals, Local Wiki Explorer can improve user engagement and content richness. This will involve leveraging AI for better search capabilities and community contributions.",
+    "summary": "By integrating aerial imagery and pose detection features, the Local Wiki Explorer can offer more engaging and interactive content. Additionally, implementing a clean ad system will improve user experience.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13510
+      "score": 13542
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8085
+      "score": 8128
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5510
+      "score": 5527
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5493
+      "score": 5502
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5417
+      "score": 5452
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5110
+      "score": 5167
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4590
+      "score": 4591
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4022
+      "score": 4141
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3882
+      "score": 3899
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 3646
+      "score": 3694
     },
     {
       "source": "github_search",
       "title": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3391
+      "score": 3410
     },
     {
       "source": "github_search",
       "title": "JoasASantos/REA-Prompts",
       "url": "https://github.com/JoasASantos/REA-Prompts",
-      "score": 3300
+      "score": 3307
     }
   ]
 }
