@@ -1205,3 +1205,21 @@ Signals:
 - xiaoyang111222/cn-math-taxonomy
 - unclebob/ub-mode
 - simbasjungles/free-my-tv
+
+## 2026-10-31 — web-learn-2026-10-31T21
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating aerial footage from pengchujin/aerial-tv, implementing a user-friendly mode inspired by unclebob/ub-mode, and adding mathematical taxonomy features from xiaoyang111222/cn-math-taxonomy, the Local Wiki Explorer can offer richer content exploration and better organization.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- xiaoyang111222/cn-math-taxonomy
+- simbasjungles/free-my-tv
