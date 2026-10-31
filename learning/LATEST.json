@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-31T12:05:19.432Z",
-  "featureId": "web-learn-2026-10-31T12",
+  "at": "2026-10-31T15:08:05.984Z",
+  "featureId": "web-learn-2026-10-31T15",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Wiki Explorer can improve user engagement and content quality through advanced features like aerial views, AI-driven pose analysis for educational resources, and GPU-accelerated image processing.",
+    "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+    "summary": "By integrating aerial views from pengchujin/aerial-tv, adding mathematical taxonomy features from xiaoyang111222/cn-math-taxonomy, and incorporating pose detection for educational content, the Local Wiki Explorer can offer a more comprehensive and interactive user experience.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13629
+      "score": 13700
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8217
+      "score": 8266
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5586
-    },
-    {
-      "source": "github_search",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5523
+      "score": 5617
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5519
+      "score": 5552
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5540
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5259
+      "score": 5305
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4605
+      "score": 4614
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4393
+      "score": 4520
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3942
+      "score": 3959
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 3804
+      "score": 3854
     },
     {
       "source": "github_search",
       "title": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3479
+      "score": 3510
     },
     {
       "source": "github_search",
-      "title": "JoasASantos/REA-Prompts",
-      "url": "https://github.com/JoasASantos/REA-Prompts",
-      "score": 3325
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 3352
     }
   ]
 }

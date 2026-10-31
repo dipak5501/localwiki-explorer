@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing Local Wiki Explorer with Public Trend Signals
+**Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating public trend signals, the Local Wiki Explorer can improve user engagement and content quality through advanced features like aerial views, AI-driven pose analysis for educational resources, and GPU-accelerated image processing.
+By integrating aerial views from pengchujin/aerial-tv, adding mathematical taxonomy features from xiaoyang111222/cn-math-taxonomy, and incorporating pose detection for educational content, the Local Wiki Explorer can offer a more comprehensive and interactive user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
