@@ -1259,3 +1259,21 @@ Signals:
 - simbasjungles/free-my-tv
 - rddmwmddr/android-ad-cleaner
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-01 — web-learn-2026-11-01T06
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating real-time data from public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users, enhancing their exploration experience. This will also encourage contributions by highlighting trending topics.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- simbasjungles/free-my-tv
+- rddmwmddr/android-ad-cleaner
+- anhao/ai-pose-gallery-zh
