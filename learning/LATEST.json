@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-01T09:24:59.338Z",
-  "featureId": "web-learn-2026-11-01T09",
+  "at": "2026-11-01T12:28:10.228Z",
+  "featureId": "web-learn-2026-11-01T12",
   "slug": "local-wiki",
   "idea": {
     "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content to users while improving their contribution experience. This will involve leveraging AI for better search capabilities and community engagement tools.",
+    "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content to users, improving their experience of exploring local knowledge bases.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8483
+      "score": 8540
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5986
+      "score": 6087
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5593
+      "score": 5599
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5491
-    },
-    {
-      "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4934
-    },
-    {
-      "source": "github_search",
-      "title": "JustAResearcher/gpu-unlock-ada",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4637
+      "score": 5545
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 4631
+      "score": 5290
     },
     {
       "source": "github_search",
-      "title": "Jakeschincariol/day-trader-skill",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 4075
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 4999
     },
     {
       "source": "github_search",
-      "title": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4037
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4643
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 4023
+      "score": 4214
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 3988
+      "score": 4166
+    },
+    {
+      "source": "github_search",
+      "title": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "score": 4132
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4046
     },
     {
       "source": "github_search",
       "title": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3621
+      "score": 3653
     }
   ]
 }
