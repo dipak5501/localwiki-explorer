@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T00:15:50.156Z",
+  "updatedAt": "2026-11-01T03:19:04.345Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content to users, enhancing their exploration and contribution experience.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can become a more engaging and relevant platform for local knowledge exploration. This improvement will help users discover trending topics in their area and contribute to them.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8322
+      "score": 8359
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5808
+      "score": 5858
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5573
+      "score": 5582
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5363
+      "score": 5400
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4666
+      "score": 4745
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4626
+      "score": 4629
     }
   ]
 }
