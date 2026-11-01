@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating aerial footage from pengchujin/aerial-tv, implementing a user-friendly mode inspired by unclebob/ub-mode, and adding mathematical taxonomy features from xiaoyang111222/cn-math-taxonomy, the Local Wiki Explorer can offer richer content exploration and better organization.
+By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content to users, enhancing their exploration and contribution experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
