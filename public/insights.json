@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T09:53:21.473Z",
+  "updatedAt": "2026-11-02T12:56:47.872Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating AI-driven content analysis and user engagement features, improving the app's search functionality, and adding a collaborative editing mode, Local Wiki Explorer can significantly enhance its usability and community involvement.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating AI-driven content analysis and user engagement tools, the Local Wiki Explorer can offer more personalized and interactive experiences for users, leading to increased participation and knowledge sharing.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 10709
+      "score": 11402
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8895
+      "score": 8940
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6412
+      "score": 6456
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5802
+      "score": 5835
     },
     {
       "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5361
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5520
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5321
+      "score": 5480
     }
   ]
 }
