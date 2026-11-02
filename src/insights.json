@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T03:46:24.417Z",
+  "updatedAt": "2026-11-02T06:49:50.770Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating deep learning and AI technologies, the Local Wiki Explorer can improve its content exploration capabilities and user engagement. Additionally, leveraging real-time data from aerial views could provide unique perspectives on local knowledge bases.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more interactive and data-driven content exploration features. This will help users better understand local knowledge bases through AI-driven insights and real-time updates.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 8850
+      "score": 9730
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8737
+      "score": 8809
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6306
+      "score": 6351
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5697
+      "score": 5747
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5214
+      "score": 5278
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 5009
+      "score": 5152
     }
   ]
 }
