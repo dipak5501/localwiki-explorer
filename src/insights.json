@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T10:20:51.969Z",
+  "updatedAt": "2026-11-03T13:24:35.313Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve user engagement and content contribution. This will make it a more robust platform for exploring local knowledge bases.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve its user engagement and functionality. This will enable users to explore local knowledge bases more effectively while also contributing content easily.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 15271
+      "score": 15702
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6794
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6686
+      "score": 6981
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6519
+      "score": 6824
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6713
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 6385
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6003
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 5810
+      "score": 6026
     }
   ]
 }

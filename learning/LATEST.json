@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-03T10:20:51.969Z",
-  "featureId": "web-learn-2026-11-03T10",
+  "at": "2026-11-03T13:24:35.313Z",
+  "featureId": "web-learn-2026-11-03T13",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve user engagement and content contribution. This will make it a more robust platform for exploring local knowledge bases.",
+    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+    "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve its user engagement and functionality. This will enable users to explore local knowledge bases more effectively while also contributing content easily.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 15271
+      "score": 15702
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6794
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6686
+      "score": 6981
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6519
+      "score": 6824
     },
     {
       "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6003
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 5810
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6713
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 5750
+      "score": 6385
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 6026
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5890
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5703
+      "score": 5728
     },
     {
       "source": "github_search",
       "title": "l0ng-ai/openidea",
       "url": "https://github.com/l0ng-ai/openidea",
-      "score": 5394
+      "score": 5461
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4722
+      "score": 4727
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4313
+      "score": 4322
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 4244
+      "score": 4319
     }
   ]
 }
