@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T22:05:45.458Z",
+  "updatedAt": "2026-11-03T01:09:42.589Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating real-time data and user interaction insights, the Local Wiki Explorer can offer a more engaging and informative experience for users exploring local knowledge bases.",
+  "summary": "By integrating AI-driven content analysis and user interaction insights, the Local Wiki Explorer can offer more personalized and engaging experiences for users. Additionally, improving data management and cleaning processes will ensure a smoother user experience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 12917
-    },
-    {
-      "source": "github_search",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 9000
+      "score": 13215
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6530
+      "score": 6551
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6141
+      "score": 6281
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5891
+      "score": 5900
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5797
+      "score": 5887
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5489
     }
   ]
 }
