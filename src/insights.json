@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T07:17:05.479Z",
+  "updatedAt": "2026-11-03T10:20:51.969Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from public trend signals, the Local Wiki Explorer can offer more interactive and intelligent content exploration. This will improve user engagement and knowledge contribution through AI-driven recommendations and enhanced data management.",
+  "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve user engagement and content contribution. This will make it a more robust platform for exploring local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 14580
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6634
+      "score": 15271
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6605
+      "score": 6794
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6686
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6300
+      "score": 6519
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5969
+      "score": 6003
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 5661
+      "score": 5810
     }
   ]
 }
