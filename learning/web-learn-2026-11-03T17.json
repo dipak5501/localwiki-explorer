@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-03T17:01:27.710Z",
+  "featureId": "web-learn-2026-11-03T17",
+  "slug": "local-wiki",
+  "idea": {
+    "headline": "Improving Local Wiki Explorer",
+    "summary": "By leveraging public trend signals, we can enhance Local Wiki Explorer to better serve its purpose of exploring and contributing to local knowledge bases. This includes improving user engagement through interactive features, enhancing content management for easier updates, and integrating AI for smarter recommendations.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "hackernews",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 639
+    },
+    {
+      "source": "hackernews",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 262
+    },
+    {
+      "source": "hackernews",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 163
+    },
+    {
+      "source": "hackernews",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 153
+    },
+    {
+      "source": "hackernews",
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "score": 111
+    },
+    {
+      "source": "hackernews",
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 105
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "score": 84
+    },
+    {
+      "source": "hackernews",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "score": 77
+    },
+    {
+      "source": "hackernews",
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "score": 74
+    },
+    {
+      "source": "hackernews",
+      "title": "Quili AI",
+      "url": "https://www.quili.ai/",
+      "score": 69
+    },
+    {
+      "source": "hackernews",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "score": 59
+    },
+    {
+      "source": "hackernews",
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "score": 53
+    }
+  ]
+}

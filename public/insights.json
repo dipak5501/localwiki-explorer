@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T16:28:30.397Z",
+  "updatedAt": "2026-11-03T17:01:27.710Z",
   "app": "Local Wiki Explorer",
-  "headline": "Improving Local Wiki Explorer with Public Trend Signals",
-  "summary": "By leveraging public trend signals, we can enhance Local Wiki Explorer to better support local knowledge bases and community contributions. This includes integrating AI-driven content suggestions, improving user engagement through gamification elements, and enhancing search functionality for more accurate results.",
+  "headline": "Improving Local Wiki Explorer",
+  "summary": "By leveraging public trend signals, we can enhance Local Wiki Explorer to better serve its purpose of exploring and contributing to local knowledge bases. This includes improving user engagement through interactive features, enhancing content management for easier updates, and integrating AI for smarter recommendations.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "hackernews",
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
       "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 584
+      "score": 639
     },
     {
       "source": "hackernews",
       "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
       "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 237
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "score": 230
+      "score": 262
     },
     {
       "source": "hackernews",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 125
+      "score": 163
+    },
+    {
+      "source": "hackernews",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 153
     },
     {
       "source": "hackernews",
       "title": "Katamari Damacy but it's The Met collection",
       "url": "https://katamari.vaguespac.es/",
-      "score": 104
+      "score": 111
     },
     {
       "source": "hackernews",
-      "title": "AI is destroying my CS degree",
-      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
-      "score": 73
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 105
     }
   ]
 }
