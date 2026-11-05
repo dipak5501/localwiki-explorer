@@ -1853,3 +1853,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - unclebob/ub-mode
+
+## 2026-11-05 — web-learn-2026-11-05T05
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating AI-driven content generation and cleanup tools, Local Wiki Explorer can improve user engagement and maintain the quality of local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- unclebob/ub-mode

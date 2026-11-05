@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhancing Local Wiki Explorer with Public Trend Signals
 
-By integrating features from deepseek-ai/dsh-superagent-prototype and storytold/craft-anything, the Local Wiki Explorer can improve its search capabilities and content creation tools, making it more engaging for users.
+By integrating AI-driven content generation and cleanup tools, Local Wiki Explorer can improve user engagement and maintain the quality of local knowledge bases.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
