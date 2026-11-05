@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T05:24:14.507Z",
+  "updatedAt": "2026-11-05T08:29:14.954Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating AI-driven content generation and cleanup tools, Local Wiki Explorer can improve user engagement and maintain the quality of local knowledge bases.",
+  "summary": "By integrating deep learning and AI-driven content generation, the Local Wiki Explorer can offer more engaging and personalized user experiences. Additionally, leveraging community contributions through gamification will foster a more active and collaborative environment.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 18800
+      "score": 19009
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 12669
+      "score": 13238
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 10032
+      "score": 10371
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 8845
+      "score": 8984
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7008
+      "score": 7024
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6765
+      "score": 6852
     }
   ]
 }
