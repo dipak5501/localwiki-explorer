@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-06T18:21:30.664Z",
-  "featureId": "web-learn-2026-11-06T18",
+  "at": "2026-11-06T21:25:27.236Z",
+  "featureId": "web-learn-2026-11-06T21",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhance Local Wiki Explorer with Trend Signals",
-    "summary": "By integrating AI-driven content generation and cleaning tools, the Local Wiki Explorer can improve user engagement and maintain a cleaner database. Additionally, incorporating interactive storytelling features will make local knowledge more accessible and engaging.",
+    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+    "summary": "By integrating features from deepseek-ai/dsh-superagent-prototype and storytold/craft-anything, the Local Wiki Explorer can offer more interactive and engaging content exploration. Additionally, adopting elements from ccch1mneyyy/dsh-Go will streamline user navigation.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,67 +16,67 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20176
+      "score": 20214
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 17542
+      "score": 17772
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 12841
+      "score": 12887
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 10606
+      "score": 10667
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7366
+      "score": 7384
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7192
+      "score": 7203
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6727
+      "score": 6737
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6238
+      "score": 6246
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5556
+      "score": 5582
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5339
+      "score": 5368
     },
     {
       "source": "github_search",
       "title": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
-      "score": 4787
+      "score": 4844
     },
     {
       "source": "github_search",
