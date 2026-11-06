@@ -1997,3 +1997,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-06 — web-learn-2026-11-06T06
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive content exploration features while also improving user contribution mechanisms.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- wangzan101/Mika
