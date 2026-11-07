@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-07T15:53:36.032Z",
-  "featureId": "web-learn-2026-11-07T15",
+  "at": "2026-11-07T18:57:41.426Z",
+  "featureId": "web-learn-2026-11-07T18",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating AI-driven content generation and interactive storytelling features, the Local Wiki Explorer can offer more engaging and dynamic local knowledge bases. Additionally, improving user interaction through gamification elements will boost community engagement.",
+    "headline": "Enhance Local Wiki Explorer with AI-Powered Features",
+    "summary": "By integrating advanced AI technologies, the Local Wiki Explorer can offer more interactive and personalized content exploration experiences. This will not only improve user engagement but also facilitate easier content creation and curation.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20690
+      "score": 20764
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 19881
+      "score": 20233
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 13977
+      "score": 14208
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11160
+      "score": 11253
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7554
+      "score": 7576
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7241
+      "score": 7245
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6339
+      "score": 6360
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5766
+      "score": 5799
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5595
-    },
-    {
-      "source": "github_search",
-      "title": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "score": 5097
+      "score": 5628
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 4869
+      "score": 5152
+    },
+    {
+      "source": "github_search",
+      "title": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "score": 5148
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4538
+      "score": 4546
     }
   ]
 }
