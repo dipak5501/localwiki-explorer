@@ -2177,3 +2177,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-07 — web-learn-2026-11-07T12
+
+Enhance Local Wiki Explorer with AI Integration
+
+By integrating deep learning and natural language processing, the Local Wiki Explorer can offer more accurate search results and assist users in contributing to local knowledge bases through intelligent suggestions.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- wangzan101/Mika
