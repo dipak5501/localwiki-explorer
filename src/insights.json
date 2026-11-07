@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T06:39:38.831Z",
+  "updatedAt": "2026-11-07T09:44:30.096Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating deep learning and AI-driven content generation, the Local Wiki Explorer can offer more engaging and personalized user experiences. Additionally, incorporating real-time collaboration tools will facilitate community contributions and knowledge sharing.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating AI-driven content generation and interactive storytelling features, the Local Wiki Explorer can provide a more engaging user experience. Additionally, improving real-time collaboration tools will foster community contributions.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20413
+      "score": 20516
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 18700
+      "score": 19074
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 13230
+      "score": 13374
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 10883
+      "score": 10988
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7454
+      "score": 7481
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7217
+      "score": 7225
     }
   ]
 }
