@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-08T16:33:04.003Z",
+  "updatedAt": "2026-11-08T19:37:46.647Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhancing Local Wiki Explorer with AI and User Engagement",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can improve user engagement through interactive storytelling features and advanced AI-driven content recommendations.",
+  "headline": "Enhance Local Wiki Explorer with AI and Interactive Features",
+  "summary": "Integrate AI-driven content suggestions and interactive storytelling elements to enrich the user experience, making Local Wiki Explorer more engaging and informative.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22191
+      "score": 22371
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21125
+      "score": 21157
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11773
+      "score": 11862
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7715
+      "score": 7727
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6518
+      "score": 6629
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6426
+      "score": 6434
     }
   ]
 }
