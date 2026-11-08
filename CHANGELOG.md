@@ -2267,3 +2267,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T04
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating storytelling and AI-driven content creation, the Local Wiki Explorer can offer more engaging and interactive local knowledge bases. This will not only attract more users but also encourage contributions from the community.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
