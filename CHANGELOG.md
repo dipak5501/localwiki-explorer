@@ -2321,3 +2321,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T13
+
+Enhance Local Wiki Explorer with AI and User Engagement
+
+By integrating AI-driven content suggestions and interactive storytelling features, the Local Wiki Explorer can offer a more engaging user experience. This will help in attracting more contributors and enhancing the quality of local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
