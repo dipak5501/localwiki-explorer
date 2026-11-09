@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with AI and Interactive Features
 
-By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive experiences for users. This will include leveraging AI for content generation and personalization to enhance user engagement.
+By integrating public trend signals, the Local Wiki Explorer can be improved to offer more engaging and interactive experiences for users, leveraging AI for smarter content recommendations and enhanced user interactions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
