@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T11:48:08.554Z",
+  "updatedAt": "2026-11-10T14:53:35.889Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating storytelling and AI-driven content discovery, the Local Wiki Explorer can offer a more engaging user experience. Additionally, leveraging unsloped data management features will improve data handling and organization.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating storytelling and AI-driven content exploration, the Local Wiki Explorer can offer a more engaging and personalized user experience. Leveraging unsloppy UI/UX practices will ensure a smooth navigation and interaction for users.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 25448
+      "score": 25646
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22032
+      "score": 22092
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13192
+      "score": 13379
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7991
+      "score": 8018
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7890
+      "score": 7969
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 7602
+      "score": 7897
     }
   ]
 }
