@@ -2789,3 +2789,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T21
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating storytelling and AI-driven content discovery, Local Wiki Explorer can offer a more engaging user experience. Leveraging unsloped data visualization techniques will help users better understand local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
