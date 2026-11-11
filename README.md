@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Wiki Explorer with Interactive Storytelling
+**Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-Integrate interactive storytelling features to engage users and make local knowledge more accessible. Leverage AI-driven content discovery tools for personalized recommendations, and streamline user contributions through a simplified interface.
+By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive content exploration. This will enhance user engagement and knowledge contribution through AI-driven insights and community interaction features.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
