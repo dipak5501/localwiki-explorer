@@ -2663,3 +2663,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T00
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating AI-driven content creation tools and user-friendly interface improvements, Local Wiki Explorer can better engage users and encourage contributions to local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
