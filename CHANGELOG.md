@@ -2735,3 +2735,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T12
+
+Enhance Local Wiki Explorer with Interactive Storytelling
+
+Integrate interactive storytelling features to engage users and make local knowledge more accessible. Leverage AI-driven content discovery tools for personalized recommendations, and streamline user contributions through a simplified interface.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
