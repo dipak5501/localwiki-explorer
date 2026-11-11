@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T15:38:11.422Z",
+  "updatedAt": "2026-11-11T18:43:54.214Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive content exploration. This will enhance user engagement and knowledge contribution through AI-driven insights and community interaction features.",
+  "summary": "By integrating storytelling and AI-driven content discovery, the Local Wiki Explorer can offer a more engaging and personalized user experience. Additionally, leveraging video content and interactive elements will enrich the knowledge sharing process.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28004
+      "score": 28187
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22437
+      "score": 22468
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 14340
+      "score": 14427
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8411
+      "score": 8463
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8269
+      "score": 8280
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8216
+      "score": 8234
     }
   ]
 }
