@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T04:01:29.093Z",
+  "updatedAt": "2026-11-12T07:07:17.577Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with AI and User Engagement",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can improve user engagement through interactive storytelling features and advanced AI-driven content recommendations.",
+  "headline": "Enhance Local Wiki Explorer with AI-Powered Features",
+  "summary": "Utilize public trend signals to integrate advanced AI functionalities, such as natural language processing and recommendation systems, to improve user engagement and content creation in the Local Wiki Explorer.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28688
+      "score": 28884
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22546
+      "score": 22588
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8584
+      "score": 8615
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8303
+      "score": 8335
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 7940
+      "score": 8072
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 7025
+      "score": 7050
     }
   ]
 }
