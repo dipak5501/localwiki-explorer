@@ -3077,3 +3077,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-13 — web-learn-2026-11-13T23
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+The Local Wiki Explorer can be improved by integrating interactive storytelling features, advanced AI-driven content discovery tools, and real-time collaboration capabilities to enhance user engagement and knowledge sharing.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
