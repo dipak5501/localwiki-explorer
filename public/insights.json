@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T07:53:47.020Z",
+  "updatedAt": "2026-11-13T11:00:02.706Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with AI and User Engagement",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can improve user engagement through interactive storytelling features and leverage AI for personalized content recommendations.",
+  "summary": "By integrating public trend signals, Local Wiki Explorer can improve user engagement through interactive storytelling features and advanced AI-driven content recommendations. This will make the app more dynamic and appealing to users interested in local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 30525
+      "score": 30829
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22878
+      "score": 22931
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 9027
+      "score": 9115
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8835
+      "score": 8850
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8728
+      "score": 8764
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7947
+      "score": 8007
     }
   ]
 }
