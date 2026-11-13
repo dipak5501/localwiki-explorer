@@ -2951,3 +2951,21 @@ Signals:
 - zortos293/Lichii
 - NotRexed/Hookshot
 - Minireel/HGhub
+
+## 2026-11-13 — web-learn-2026-11-13T01
+
+Enhance Local Wiki Explorer with AI-Powered Features
+
+By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive experiences for users, enhancing its utility as a knowledge base platform.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- NotRexed/Hookshot
+- zortos293/Lichii
+- Minireel/HGhub

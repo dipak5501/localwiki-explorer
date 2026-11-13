@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T22:36:00.414Z",
+  "updatedAt": "2026-11-13T01:41:27.132Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with AI and Interactive Features",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can be improved to offer more interactive storytelling experiences and advanced search capabilities, making it a richer platform for local knowledge exploration.",
+  "headline": "Enhance Local Wiki Explorer with AI-Powered Features",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive experiences for users, enhancing its utility as a knowledge base platform.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 29772
+      "score": 29923
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22733
-    },
-    {
-      "source": "github_search",
-      "title": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "score": 8746
+      "score": 22751
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 8704
+      "score": 8807
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 8784
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8637
+      "score": 8672
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7729
+      "score": 7799
     }
   ]
 }

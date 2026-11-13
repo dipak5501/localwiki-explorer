@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-12T22:36:00.414Z",
-  "featureId": "web-learn-2026-11-12T22",
+  "at": "2026-11-13T01:41:27.132Z",
+  "featureId": "web-learn-2026-11-13T01",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhance Local Wiki Explorer with AI and Interactive Features",
-    "summary": "By integrating public trend signals, the Local Wiki Explorer can be improved to offer more interactive storytelling experiences and advanced search capabilities, making it a richer platform for local knowledge exploration.",
+    "headline": "Enhance Local Wiki Explorer with AI-Powered Features",
+    "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive experiences for users, enhancing its utility as a knowledge base platform.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 29772
+      "score": 29923
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22733
-    },
-    {
-      "source": "github_search",
-      "title": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "score": 8746
+      "score": 22751
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 8704
+      "score": 8807
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 8784
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8637
+      "score": 8672
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7729
-    },
-    {
-      "source": "github_search",
-      "title": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "score": 7164
+      "score": 7799
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 6919
-    },
-    {
-      "source": "github_search",
-      "title": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4749
+      "score": 6957
     },
     {
       "source": "github_search",
       "title": "Lee-xeo/Claude-Cage",
       "url": "https://github.com/Lee-xeo/Claude-Cage",
-      "score": 4740
+      "score": 4808
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 4789
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 3540
+      "score": 3578
+    },
+    {
+      "source": "github_search",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "score": 3367
     },
     {
       "source": "github_search",
       "title": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR",
-      "score": 3337
+      "score": 3338
     }
   ]
 }
