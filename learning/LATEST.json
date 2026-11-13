@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-13T17:11:48.264Z",
-  "featureId": "web-learn-2026-11-13T17",
+  "at": "2026-11-13T20:17:51.697Z",
+  "featureId": "web-learn-2026-11-13T20",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive content. This will help users explore local knowledge bases in a more dynamic way while also providing tools for contributing to these communities.",
+    "headline": "Enhance Local Wiki Explorer with AI-driven Content Generation",
+    "summary": "By integrating AI-driven content generation, Local Wiki Explorer can automatically create and update local knowledge bases based on public trends and user contributions. This will improve the app's engagement and maintain its relevance.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 31217
+      "score": 31326
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22997
+      "score": 23015
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8922
+      "score": 8957
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8806
+      "score": 8815
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8147
+      "score": 8209
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7232
+      "score": 7267
     },
     {
       "source": "github_search",
       "title": "Lee-xeo/Claude-Cage",
       "url": "https://github.com/Lee-xeo/Claude-Cage",
-      "score": 5208
+      "score": 5223
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5104
-    },
-    {
-      "source": "hackernews",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3878
+      "score": 5115
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 3844
+      "score": 3909
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 3786
+      "score": 3836
     },
     {
       "source": "github_search",
       "title": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR",
       "score": 3346
+    },
+    {
+      "source": "github_search",
+      "title": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "score": 3232
     }
   ]
 }

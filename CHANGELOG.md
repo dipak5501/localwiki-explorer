@@ -3059,3 +3059,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-13 — web-learn-2026-11-13T20
+
+Enhance Local Wiki Explorer with AI-driven Content Generation
+
+By integrating AI-driven content generation, Local Wiki Explorer can automatically create and update local knowledge bases based on public trends and user contributions. This will improve the app's engagement and maintain its relevance.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
