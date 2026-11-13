@@ -3023,3 +3023,21 @@ Signals:
 - NotRexed/Hookshot
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-13 — web-learn-2026-11-13T14
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By leveraging public trend signals, the Local Wiki Explorer can improve its user experience and functionality. This will enable users to explore local knowledge bases more effectively while also contributing valuable content.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
