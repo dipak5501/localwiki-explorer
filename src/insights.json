@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T14:06:29.169Z",
+  "updatedAt": "2026-11-13T17:11:48.264Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-  "summary": "By leveraging public trend signals, the Local Wiki Explorer can improve its user experience and functionality. This will enable users to explore local knowledge bases more effectively while also contributing valuable content.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and interactive content. This will help users explore local knowledge bases in a more dynamic way while also providing tools for contributing to these communities.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 31011
+      "score": 31217
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22969
+      "score": 22997
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8885
+      "score": 8922
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8787
+      "score": 8806
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8073
+      "score": 8147
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7184
+      "score": 7232
     }
   ]
 }
