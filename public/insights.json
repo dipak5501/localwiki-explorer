@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T23:24:16.573Z",
+  "updatedAt": "2026-11-14T02:30:33.636Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "The Local Wiki Explorer can be improved by integrating interactive storytelling features, advanced AI-driven content discovery tools, and real-time collaboration capabilities to enhance user engagement and knowledge sharing.",
+  "summary": "By integrating features from recent web app trends, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "score": 31393
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 23015
-    },
-    {
-      "source": "github_search",
-      "title": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "score": 8980
-    },
-    {
-      "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8819
+      "score": 8822
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8259
+      "score": 8300
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7293
+      "score": 7344
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5134
+    },
+    {
+      "source": "github_search",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "score": 4022
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 3911
     }
   ]
 }

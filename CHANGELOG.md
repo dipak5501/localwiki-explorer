@@ -3095,3 +3095,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-14 — web-learn-2026-11-14T02
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from recent web app trends, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
