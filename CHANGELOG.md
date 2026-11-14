@@ -3167,3 +3167,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T14
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+Utilize public trend signals to improve the Local Wiki Explorer by integrating community-driven content curation tools and enhancing user interaction features, making it more engaging and collaborative.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
