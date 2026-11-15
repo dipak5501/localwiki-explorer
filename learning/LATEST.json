@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-15T15:41:15.355Z",
-  "featureId": "web-learn-2026-11-15T15",
+  "at": "2026-11-15T18:47:17.572Z",
+  "featureId": "web-learn-2026-11-15T18",
   "slug": "local-wiki",
   "idea": {
     "headline": "Enhance Local Wiki Explorer with Trend Signals",
-    "summary": "By integrating features from popular repositories, the Local Wiki Explorer can improve user engagement and functionality. This includes implementing real-time collaboration tools, enhancing search capabilities, and adding a more intuitive interface.",
+    "summary": "By incorporating features from public trend signals, the Local Wiki Explorer can improve user engagement and functionality. These improvements will help in creating a more dynamic and interactive local knowledge base.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8946
+      "score": 8975
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8842
+      "score": 8898
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7706
-    },
-    {
-      "source": "github_search",
-      "title": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5464
+      "score": 7723
     },
     {
       "source": "github_search",
       "title": "libracoder/kiri",
       "url": "https://github.com/libracoder/kiri",
-      "score": 5207
+      "score": 5735
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5484
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 4261
+      "score": 4285
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4175
+      "score": 4188
     },
     {
       "source": "github_search",
       "title": "shanselman/gputaskman",
       "url": "https://github.com/shanselman/gputaskman",
-      "score": 3292
+      "score": 3315
     },
     {
       "source": "github_search",
       "title": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3239
+      "score": 3254
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3137
+      "score": 3172
     },
     {
       "source": "github_search",
       "title": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
-      "score": 2761
+      "score": 2766
     },
     {
       "source": "github_search",
-      "title": "sarpstar/cinecode",
-      "url": "https://github.com/sarpstar/cinecode",
-      "score": 2538
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 2726
     }
   ]
 }
