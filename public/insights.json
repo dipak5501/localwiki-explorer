@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T00:12:01.095Z",
+  "updatedAt": "2026-11-15T03:18:02.729Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from public trend signals, the Local Wiki Explorer can offer more interactive and intelligent content exploration tools, improving user engagement and knowledge contribution.",
+  "summary": "By integrating features from trending repositories, the Local Wiki Explorer can offer more interactive and user-friendly content exploration tools. This will enhance community engagement and knowledge sharing.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -19,31 +19,31 @@
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8626
+      "score": 8661
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7560
+      "score": 7591
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5334
+      "score": 5354
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 4182
+      "score": 4198
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4096
+      "score": 4120
     }
   ]
 }
