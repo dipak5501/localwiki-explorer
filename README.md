@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from Minireel/HGhub and janestreet/agent_skills, the Local Wiki Explorer can improve user interaction and content management. Adding GestaltX's visual analytics could also enrich the user experience.
+By integrating features from public trend signals, the Local Wiki Explorer can offer more interactive and data-driven content exploration. This will improve user engagement and contribute to a richer local knowledge base.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
