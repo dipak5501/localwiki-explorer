@@ -3293,3 +3293,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - libracoder/kiri
+
+## 2026-11-15 — web-learn-2026-11-15T12
+
+Enhance Local Wiki Explorer with Cutting-Edge Features
+
+By integrating trend signals from Minireel/HGhub and janestreet/agent_skills, the Local Wiki Explorer can offer more interactive and intelligent content exploration tools. This will improve user engagement and knowledge contribution.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- libracoder/kiri
