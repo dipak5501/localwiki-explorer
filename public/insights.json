@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T18:47:17.572Z",
+  "updatedAt": "2026-11-15T21:53:38.300Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Trend Signals",
-  "summary": "By incorporating features from public trend signals, the Local Wiki Explorer can improve user engagement and functionality. These improvements will help in creating a more dynamic and interactive local knowledge base.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. This includes real-time collaboration tools, advanced search capabilities, and a more intuitive interface.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8975
+      "score": 8979
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8898
+      "score": 8936
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7723
+      "score": 7730
     },
     {
       "source": "github_search",
       "title": "libracoder/kiri",
       "url": "https://github.com/libracoder/kiri",
-      "score": 5735
+      "score": 6123
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5484
+      "score": 5492
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 4285
+      "score": 4301
     }
   ]
 }
