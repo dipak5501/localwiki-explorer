@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T00:59:48.331Z",
+  "updatedAt": "2026-11-16T04:05:48.040Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from public trend signals, the Local Wiki Explorer can improve user interaction and content management. This includes implementing real-time collaboration tools, enhancing search functionalities, and adding a knowledge graph for better context.",
+  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+  "summary": "Integrate natural language processing and knowledge graph technologies to improve search capabilities, enable user contributions through voice commands, and incorporate real-time collaboration features.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 9004
+      "score": 9096
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8986
+      "score": 9094
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7743
+      "score": 7763
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5504
+      "score": 5544
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4220
+      "score": 4242
     },
     {
       "source": "github_search",
       "title": "shanselman/gputaskman",
       "url": "https://github.com/shanselman/gputaskman",
-      "score": 3342
+      "score": 3349
     }
   ]
 }
