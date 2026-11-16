@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T13:25:37.856Z",
+  "updatedAt": "2026-11-16T16:32:19.886Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from recent public trend signals, the Local Wiki Explorer can offer a more interactive and collaborative experience for users exploring local knowledge bases. This includes improving search functionality, adding real-time collaboration tools, and incorporating AI-driven content suggestions.",
+  "headline": "Enhance Local Wiki Explorer with Trend Signals",
+  "summary": "By integrating features from the selected public trend signals, Local Wiki Explorer can improve user engagement and functionality. These improvements will make the app more interactive and useful for local knowledge exploration.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 9363
+      "score": 9435
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 9349
+      "score": 9434
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7824
+      "score": 7852
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5646
+      "score": 5679
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4258
+      "score": 4266
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 3853
+      "score": 3957
     }
   ]
 }
