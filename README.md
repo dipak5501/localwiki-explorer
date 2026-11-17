@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with AI Integration
 
-By integrating AI-driven features, the Local Wiki Explorer can offer more personalized and interactive experiences for users, improving both exploration and contribution processes.
+By integrating public trend signals, the Local Wiki Explorer can leverage advanced AI technologies to improve user experience and content management. This will make it easier for users to explore local knowledge bases and contribute more effectively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
