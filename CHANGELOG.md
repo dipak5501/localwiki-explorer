@@ -3599,3 +3599,21 @@ Signals:
 - tangerineturtle1/NX2navi
 - jhaizhou-ops/S2Arm
 - JenkinWoo/sheeridVerify
+
+## 2026-11-17 — web-learn-2026-11-17T17
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating public trend signals, the Local Wiki Explorer can provide more relevant and up-to-date information to users. This will improve user engagement and contribute to a richer local knowledge base.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huamidev/GestaltX
+- deepseek-ai/chat-demo
+- tangerineturtle1/NX2navi
+- jhaizhou-ops/S2Arm
+- JenkinWoo/sheeridVerify
