@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Trend Signals
 
-By integrating natural language processing and chatbot functionalities, the Local Wiki Explorer can offer more interactive and user-friendly features. Additionally, adding a battery monitoring system for mobile devices will ensure content remains accessible offline.
+The Local Wiki Explorer can be improved by integrating real-time updates, enhancing user interaction through AI chat support, and adding battery monitoring features to ensure smooth performance on mobile devices.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
