@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-Integrate chat functionalities and AI-driven content suggestions to improve user engagement and knowledge contribution in the Local Wiki Explorer app. Implement real-time notifications for updates and a voice synthesis feature for accessibility.
+Integrate real-time updates and interactive features inspired by public trend signals to enrich the user experience of Local Wiki Explorer, making it more engaging and informative for local knowledge exploration.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
