@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T04:26:20.609Z",
+  "updatedAt": "2026-11-20T07:32:51.579Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
+  "summary": "By integrating real-time data and user interaction trends, the Local Wiki Explorer can offer a more engaging and dynamic experience for users exploring local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,25 +13,25 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8567
+      "score": 8585
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 5403
+      "score": 5627
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5050
+      "score": 5069
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4726
+      "score": 4787
     },
     {
       "source": "github_search",
@@ -43,7 +43,7 @@
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 3900
+      "score": 3947
     }
   ]
 }
