@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating real-time data and user interaction trends, the Local Wiki Explorer can offer a more engaging and dynamic experience for users exploring local knowledge bases.
+By integrating features from popular repositories like GestaltX and rust-anything, the Local Wiki Explorer can improve user interaction and backend performance. This will make it more engaging for contributors and users alike.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

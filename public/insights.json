@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T07:32:51.579Z",
+  "updatedAt": "2026-11-20T10:39:23.609Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating real-time data and user interaction trends, the Local Wiki Explorer can offer a more engaging and dynamic experience for users exploring local knowledge bases.",
+  "summary": "By integrating features from popular repositories like GestaltX and rust-anything, the Local Wiki Explorer can improve user interaction and backend performance. This will make it more engaging for contributors and users alike.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8585
+      "score": 8604
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 5627
+      "score": 5867
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5069
+      "score": 5087
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4787
+      "score": 4906
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4338
+      "score": 4337
     },
     {
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 3947
+      "score": 4022
     }
   ]
 }
