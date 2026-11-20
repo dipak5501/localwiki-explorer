@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-Utilize public trend signals to improve the Local Wiki Explorer by integrating real-time collaboration features, enhancing user engagement through gamification elements, and implementing AI-driven content recommendations.
+By integrating real-time public signals, the Local Wiki Explorer can offer more relevant and timely information to its users, enhancing both exploration and contribution experiences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

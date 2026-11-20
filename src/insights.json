@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T13:45:50.660Z",
+  "updatedAt": "2026-11-20T16:52:35.128Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "Utilize public trend signals to improve the Local Wiki Explorer by integrating real-time collaboration features, enhancing user engagement through gamification elements, and implementing AI-driven content recommendations.",
+  "summary": "By integrating real-time public signals, the Local Wiki Explorer can offer more relevant and timely information to its users, enhancing both exploration and contribution experiences.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,25 +13,25 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8619
+      "score": 8627
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 6066
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5094
+      "score": 6304
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5017
+      "score": 5130
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5109
     },
     {
       "source": "github_search",
@@ -43,7 +43,7 @@
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 4092
+      "score": 4140
     }
   ]
 }
