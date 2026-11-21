@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T02:12:48.137Z",
+  "updatedAt": "2026-11-21T05:19:30.611Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating real-time public trend signals, the Local Wiki Explorer can provide more relevant and engaging content to users, enhancing their exploration experience. This improvement will also encourage contributions by highlighting trending topics.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating features from public trend signals, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8646
+      "score": 8656
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 6684
+      "score": 6798
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5331
+      "score": 5401
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5126
+      "score": 5142
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3732
+      "score": 3739
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 2928
+      "score": 3004
     }
   ]
 }
