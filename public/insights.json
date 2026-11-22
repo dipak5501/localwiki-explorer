@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T03:04:56.516Z",
+  "updatedAt": "2026-11-22T06:11:19.894Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer",
-  "summary": "By integrating real-time data and user feedback, the Local Wiki Explorer can become a more dynamic and interactive platform for local knowledge sharing. This will improve user engagement and contribute to a richer community experience.",
+  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more interactive and data-driven content exploration features. This will enhance user engagement and contribute to a richer local knowledge base.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8742
+      "score": 8757
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7483
+      "score": 7548
     },
     {
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 6410
+      "score": 7407
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5843
+      "score": 5883
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5224
+      "score": 5239
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3452
+      "score": 3529
     }
   ]
 }
