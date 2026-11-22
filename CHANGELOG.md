@@ -4265,3 +4265,21 @@ Signals:
 - erkamyaman/rust-anything
 - krisgfx9/Wireless-Device-Battery-Monitor
 - deepseek-ai/chat-demo
+
+## 2026-11-22 — web-learn-2026-11-22T12
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating real-time public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users, enhancing both exploration and contribution experiences.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- krisgfx9/Wireless-Device-Battery-Monitor
+- deepseek-ai/chat-demo
