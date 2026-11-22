@@ -4319,3 +4319,21 @@ Signals:
 - erkamyaman/rust-anything
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
+
+## 2026-11-22 — web-learn-2026-11-22T21
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger

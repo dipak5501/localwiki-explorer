@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T18:37:14.593Z",
+  "updatedAt": "2026-11-22T21:43:39.464Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from popular projects, the Local Wiki Explorer can offer more interactive and intelligent content exploration capabilities. This will enhance user engagement and knowledge contribution.",
+  "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,19 +13,19 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 12822
+      "score": 14075
     },
     {
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8802
+      "score": 8804
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7876
+      "score": 7929
     },
     {
       "source": "github_search",
@@ -37,13 +37,13 @@
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3772
+      "score": 3804
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2949
+      "score": 2963
     }
   ]
 }
