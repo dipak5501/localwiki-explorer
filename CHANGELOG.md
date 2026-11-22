@@ -4301,3 +4301,21 @@ Signals:
 - erkamyaman/rust-anything
 - krisgfx9/Wireless-Device-Battery-Monitor
 - deepseek-ai/chat-demo
+
+## 2026-11-22 — web-learn-2026-11-22T18
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from popular projects, the Local Wiki Explorer can offer more interactive and intelligent content exploration capabilities. This will enhance user engagement and knowledge contribution.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
