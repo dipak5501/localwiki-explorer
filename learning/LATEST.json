@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-22T21:43:39.464Z",
-  "featureId": "web-learn-2026-11-22T21",
+  "at": "2026-11-23T00:50:21.025Z",
+  "featureId": "web-learn-2026-11-23T00",
   "slug": "local-wiki",
   "idea": {
-    "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
+    "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+    "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users while improving collaboration and contribution features.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 14075
-    },
-    {
-      "source": "github_search",
-      "title": "huami1314/GestaltX",
-      "url": "https://github.com/huami1314/GestaltX",
-      "score": 8804
+      "score": 15042
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7929
+      "score": 7998
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5277
+      "score": 5281
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3804
+      "score": 3836
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2963
+      "score": 2979
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2946
+      "score": 2952
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2898
+      "score": 2908
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2782
+      "score": 2793
     },
     {
       "source": "github_search",
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "score": 2745
-    },
-    {
-      "source": "github_search",
-      "title": "HolyArrs/HolyArrs",
-      "url": "https://github.com/HolyArrs/HolyArrs",
-      "score": 2737
+      "score": 2746
     },
     {
       "source": "github_search",
       "title": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2708
+      "score": 2712
+    },
+    {
+      "source": "github_search",
+      "title": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "score": 2679
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 2363
     }
   ]
 }
