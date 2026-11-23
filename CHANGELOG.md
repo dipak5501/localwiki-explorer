@@ -4463,3 +4463,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - Hut-hzf/ung220z-tool
+
+## 2026-11-23 — web-learn-2026-11-23T22
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating features from the selected projects, Local Wiki Explorer can improve its user experience and functionality. These enhancements will help in creating a more interactive and informative platform for local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ProjectLeonida/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- Hut-hzf/ung220z-tool
