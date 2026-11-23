@@ -4355,3 +4355,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T03
+
+Enhancing Local Wiki Explorer with Public Trend Signals
+
+By integrating machine learning and AI technologies, the Local Wiki Explorer can offer more accurate and relevant content suggestions to users while improving the overall user experience through advanced analytics.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
