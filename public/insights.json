@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T16:23:21.590Z",
+  "updatedAt": "2026-11-23T19:30:01.785Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with AI and Rust",
-  "summary": "Integrate advanced natural language processing capabilities using Rust for backend performance improvements, enabling more efficient data handling and faster response times. Implement real-time collaboration features through chat functionalities to facilitate user interaction and knowledge sharing.",
+  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more engaging and relevant content to users while providing a platform for community contributions. This will enhance user experience and engagement.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 23085
+      "score": 28528
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8571
+      "score": 8627
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5338
+      "score": 5342
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 4127
+      "score": 4150
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3080
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3046
-    },
-    {
-      "source": "github_search",
-      "title": "Immortal-Protocols/lastbook",
-      "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2992
+      "score": 3063
     }
   ]
 }
