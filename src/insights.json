@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T14:07:40.945Z",
+  "updatedAt": "2026-11-24T17:14:00.364Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users. This improvement will help in maintaining user interest and encouraging contributions.",
+  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating features from popular projects like rust-anything and fast-anything, the Local Wiki Explorer can improve its performance and functionality. Additionally, incorporating chat functionalities from chat-demo will enhance user interaction.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9065
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 10015
     },
     {
       "source": "github_search",
-      "title": "Marvisak/VIctory",
-      "url": "https://github.com/Marvisak/VIctory",
-      "score": 8957
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 9121
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 6744
+      "score": 7235
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5387
+      "score": 5394
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4200
+      "score": 4347
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3472
+      "score": 3530
     }
   ]
 }
