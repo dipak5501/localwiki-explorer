@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T07:54:59.319Z",
+  "updatedAt": "2026-11-24T11:01:18.225Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users while improving their contribution experience. This will help in building a richer local knowledge base.",
+  "summary": "By integrating features from popular open-source projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8892
+      "score": 8991
     },
     {
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 6019
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5363
+      "score": 7677
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 4975
+      "score": 6092
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5375
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3852
+      "score": 4042
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3319
+      "score": 3405
     }
   ]
 }
