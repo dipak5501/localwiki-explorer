@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T04:48:23.800Z",
+  "updatedAt": "2026-11-24T07:54:59.319Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhancing Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating AI chat functionalities and real-time data updates, the Local Wiki Explorer can become a more interactive and dynamic platform for local knowledge sharing. Improvements will focus on user engagement and content freshness.",
+  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users while improving their contribution experience. This will help in building a richer local knowledge base.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8817
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5356
+      "score": 8892
     },
     {
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 4514
+      "score": 6019
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5363
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 4057
+      "score": 4975
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3619
+      "score": 3852
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3242
+      "score": 3319
     }
   ]
 }
