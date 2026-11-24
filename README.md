@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Wiki Explorer with Public Trend Signals
 
-By integrating features from popular open-source projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.
+By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users. This improvement will help in maintaining user interest and encouraging contributions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
