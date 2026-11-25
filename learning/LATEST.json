@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-25T02:32:36.327Z",
-  "featureId": "web-learn-2026-11-25T02",
+  "at": "2026-11-25T05:38:58.199Z",
+  "featureId": "web-learn-2026-11-25T05",
   "slug": "local-wiki",
   "idea": {
     "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-    "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. This will make it easier for users to contribute and explore local knowledge bases.",
+    "summary": "By integrating features from trending repositories, the Local Wiki Explorer can become a more robust and interactive platform for local knowledge sharing. This will enhance user engagement and contribute to the growth of community-driven content.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 11467
+      "score": 11624
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9249
+      "score": 9309
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 7888
+      "score": 7960
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5403
+      "score": 5410
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4491
+      "score": 4575
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3634
+      "score": 3686
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 3428
+      "score": 3509
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 3058
+      "score": 3059
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 2960
+      "score": 3058
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2940
+      "score": 2945
     },
     {
       "source": "github_search",
       "title": "ZiChuanLan/freebie-radar",
       "url": "https://github.com/ZiChuanLan/freebie-radar",
-      "score": 2594
+      "score": 2618
     },
     {
       "source": "github_search",
       "title": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "score": 2580
+      "score": 2603
     }
   ]
 }
