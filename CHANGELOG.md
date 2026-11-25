@@ -4679,3 +4679,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T11
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating real-time public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users, improving their experience in exploring local knowledge bases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
