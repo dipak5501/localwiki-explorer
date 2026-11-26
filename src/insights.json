@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T21:12:21.076Z",
+  "updatedAt": "2026-11-26T00:18:24.243Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from popular projects, the Local Wiki Explorer can improve user engagement and functionality. These improvements will make it easier for users to contribute and explore local knowledge bases.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users, enhancing their exploration experience. This improvement will also facilitate better community contributions by providing useful tools and resources.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 12509
+      "score": 12606
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9569
+      "score": 9604
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8278
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5443
+      "score": 8315
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4803
+      "score": 4834
+    },
+    {
+      "source": "github_search",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 4114
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3926
+      "score": 3955
     }
   ]
 }
