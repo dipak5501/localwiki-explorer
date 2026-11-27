@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-27T01:09:49.521Z",
+  "updatedAt": "2026-11-27T04:16:19.002Z",
   "app": "Local Wiki Explorer",
   "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
-  "summary": "By integrating features from popular repositories, the Local Wiki Explorer can improve its functionality and user engagement. This includes enhancing search capabilities, adding real-time collaboration tools, and improving data visualization.",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users, enhancing their experience in exploring local knowledge bases.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13372
+      "score": 13450
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 10222
+      "score": 10308
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8612
+      "score": 8629
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 5820
+      "score": 5968
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5533
+      "score": 5626
     },
     {
       "source": "github_search",
-      "title": "AFK-surf/xnulinux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4239
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 4275
     }
   ]
 }
