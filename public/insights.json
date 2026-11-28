@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-28T14:27:33.938Z",
+  "updatedAt": "2026-11-28T17:33:33.847Z",
   "app": "Local Wiki Explorer",
-  "headline": "Enhancements for Local Wiki Explorer",
-  "summary": "By leveraging public trend signals, we can improve the Local Wiki Explorer by enhancing its search functionality, integrating real-time collaboration features, and adding a user-friendly interface to boost community engagement.",
+  "headline": "Enhance Local Wiki Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Wiki Explorer can improve user engagement and functionality. This will enable users to explore local knowledge bases more effectively while also contributing new content.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 14017
+      "score": 14081
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 11023
+      "score": 11077
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8784
+      "score": 8793
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 7071
-    },
-    {
-      "source": "github_search",
-      "title": "Hut-hzf/ung220z-tool",
-      "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 6007
+      "score": 7166
     },
     {
       "source": "github_search",
       "title": "trustno1-coder/VIctory-NVIDIA",
       "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "score": 5551
+      "score": 6106
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 6024
     }
   ]
 }
