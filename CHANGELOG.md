@@ -5075,3 +5075,21 @@ Signals:
 - xcl-dev/xcl
 - 4lwayz/portwatch-vi
 - Hut-hzf/ung220z-tool
+
+## 2026-11-28 — web-learn-2026-11-28T08
+
+Enhance Local Wiki Explorer with Public Trend Signals
+
+By integrating public trend signals, the Local Wiki Explorer can offer more relevant and engaging content to users while improving their contribution experience. This will help in building a richer local knowledge base.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- 4lwayz/portwatch-vi
+- Hut-hzf/ung220z-tool
